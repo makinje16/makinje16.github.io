@@ -1,1 +1,2 @@
 # makinje16.github.io
+Within the past two weeks of this project I have worked entirely on the css and html of my portfolio site. I started with a base of just html and form there moved into styling my page. It is pretty basic but ecompases the foundations of web programming. I worked on this project for about 3-4 hours since I would take brakes in between sessions and initially had to frequently look up documentation about css but as time went on, it got easier and easier.
