@@ -1,0 +1,60 @@
+html{
+background-color: dodgerblue;
+}
+
+
+body {
+    background-color: dimgray;
+    border-radius: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.sectionTitle {
+    text-decoration: underline;
+}
+
+.companyAndTitle {
+    font-style: italic;
+}
+
+.jobDuration {
+    font-style: italic;
+    font-size: 100%;
+}
+
+.bulletPoints {
+    align-content: center;
+    background-color: rgba(255,255,255,.2);
+    margin-left: 10%;
+}
+
+.bulletPointChild {
+    align-content: center;
+    opacity: 1;
+}
+
+#linkToEmail {
+    align-content: center;
+    margin-left: 40%;
+
+}
+
+#headshot {
+    height: 30%;
+    width: 20%;
+    border-radius: 50%;
+    margin-left: 43%;
+}
+
+#name {
+    align-content: center;
+    margin-left: 45%;
+}
+
+#homeButton{
+    align-content: center;
+    margin-left: 50%;
+}
